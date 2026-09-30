@@ -1,0 +1,13 @@
+# Archivos generados al compilar C++
+*.exe
+*.obj
+*.ilk
+*.pdb
+
+# Carpetas de compilación
+build/
+bin/
+out/
+
+# Archivos temporales
+.vs/
